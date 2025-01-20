@@ -34,4 +34,4 @@ insert into orders (uno) values (3);
 insert into orders (uno) values (4);
 insert into orders (uno) values (5);
 
-insert into orderDetail (odcount, ono, pno, sellerno, buyerno) values (1, 1, 1, 1, 2);
+insert into order_Detail (odcount, ono, pno, sellerno, buyerno) values (1, 1, 1, 1, 2);
